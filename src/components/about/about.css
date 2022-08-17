@@ -1,0 +1,30 @@
+.a{
+    height:100vh;
+    display:flex;
+    align-items:center;
+}
+
+.a-left{
+  flex: 1;
+
+  
+  
+}
+
+.a-right{
+flex: 1;
+}
+
+.a-card{
+    width: 80%;
+    height: 40vh;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.a-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
